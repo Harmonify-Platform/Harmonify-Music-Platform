@@ -1,1 +1,1 @@
-# Harmonify-Music-Platform
+# Harmonify Music Platform
